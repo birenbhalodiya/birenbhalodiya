@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Biren Bhalodiya!
 
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+I'm a versatile web designer and developer who effortlessly switches between hats, whether it's crafting stunning user interfaces 🌐, coding responsive websites 📱, or integrating elegant designs 🎨. I thrive on exploring new tech stacks 💻 and leveraging them to bring creative visions to life 🛠️.
 <br/>
 <br/>
 
