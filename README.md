@@ -25,3 +25,5 @@ I'm a versatile web designer and developer who effortlessly switches between hat
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
 <br>
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=birenbhalodiya" alt="GitHub Streak" /></a>
