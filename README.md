@@ -39,26 +39,26 @@ I am passionate about delivering high-quality user interfaces and constantly str
 
 ### 🔨 Languages and Tools:
 
-<!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px" width='42px'  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a> -->
+<!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px" width='42px' style="margin: 5px; object-fit:content;"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a> -->
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img alt="Typescirpt" height ="42px" width='42px' src="/assets/technologies/html5.png"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img alt="Typescirpt" height ="42px" width='42px' src="/assets/technologies/css3.png"></a>
-<a href="https://react.dev/" target="_blank"><img alt="Typescirpt" height ="42px" width='42px' src="/assets/technologies/reactjs.png"></a>
-<a href="https://nextjs.org/" target="_blank"><img alt="Typescirpt" height ="42px" width='42px' src="/assets/technologies/nextjs2.png"></a>
-<a href="https://getbootstrap.com/" target="_blank"><img alt="Typescirpt" height ="42px" width='42px' src="/assets/technologies/bootstrap5.png"></a>
-<a href="https://sass-lang.com/" target="_blank"><img alt="Typescirpt" height ="42px" width='42px' src="/assets/technologies/sass.png"></a>
-<a href="https://tailwindcss.com/" target="_blank"><img alt="Typescirpt" height ="42px" width='42px' src="/assets/technologies/tailwindcss.png"></a>
-<a href="https://github.com/" target="_blank"><img alt="Typescirpt" height ="42px" width='42px' src="/assets/technologies/github.png"></a>
-<a href="https://javascript.info/" target="_blank"><img alt="Typescirpt" height ="42px" width='42px' src="/assets/technologies/js.png"></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img alt="Typescirpt" height ="42px" width='42px' src="/assets/technologies/typescript.png"></a>
-<a href="https://vitejs.dev/" target="_blank"><img alt="Typescirpt" height ="42px" width='42px' src="/assets/technologies/vitejs.png"></a>
-<a href="https://www.radix-ui.com/" target="_blank"><img alt="Typescirpt" height ="42px" width='42px' src="/assets/technologies/radixui.png"></a>
-<a href="https://mui.com/material-ui/" target="_blank"><img alt="Typescirpt" height ="42px" width='42px' src="/assets/technologies/materialui.png"></a>
-<a href="https://ant.design/" target="_blank"><img alt="Typescirpt" height ="42px" width='42px' src="/assets/technologies/antd.png"></a>
-<a href="https://www.framer.com/" target="_blank"><img alt="Typescirpt" height ="42px" width='42px' src="/assets/technologies/framer.png"></a>
-<a href="https://www.canva.com/" target="_blank"><img alt="Typescirpt" height ="42px" width='42px' src="/assets/technologies/canva.png"></a>
-<a href="https://www.figma.com" target="_blank"><img alt="Typescirpt" height ="42px" width='42px' src="/assets/technologies/figma.png"></a>
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img alt="Typescirpt" height ="42px" width='42px' src="/assets/technologies/ps.png"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img alt="Typescirpt" height ="42px" width='42px' style="margin: 5px; object-fit:content;" src="/assets/technologies/html5.png"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img alt="Typescirpt" height ="42px" width='42px' style="margin: 5px; object-fit:content;" src="/assets/technologies/css3.png"></a>
+<a href="https://react.dev/" target="_blank"><img alt="Typescirpt" height ="42px" width='42px' style="margin: 5px; object-fit:content;" src="/assets/technologies/reactjs.png"></a>
+<a href="https://nextjs.org/" target="_blank"><img alt="Typescirpt" height ="42px" width='42px' style="margin: 5px; object-fit:content;" src="/assets/technologies/nextjs2.png"></a>
+<a href="https://getbootstrap.com/" target="_blank"><img alt="Typescirpt" height ="42px" width='42px' style="margin: 5px; object-fit:content;" src="/assets/technologies/bootstrap5.png"></a>
+<a href="https://sass-lang.com/" target="_blank"><img alt="Typescirpt" height ="42px" width='42px' style="margin: 5px; object-fit:content;" src="/assets/technologies/sass.png"></a>
+<a href="https://tailwindcss.com/" target="_blank"><img alt="Typescirpt" height ="42px" width='42px' style="margin: 5px; object-fit:content;" src="/assets/technologies/tailwindcss.png"></a>
+<a href="https://github.com/" target="_blank"><img alt="Typescirpt" height ="42px" width='42px' style="margin: 5px; object-fit:content;" src="/assets/technologies/github.png"></a>
+<a href="https://javascript.info/" target="_blank"><img alt="Typescirpt" height ="42px" width='42px' style="margin: 5px; object-fit:content;" src="/assets/technologies/js.png"></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img alt="Typescirpt" height ="42px" width='42px' style="margin: 5px; object-fit:content;" src="/assets/technologies/typescript.png"></a>
+<a href="https://vitejs.dev/" target="_blank"><img alt="Typescirpt" height ="42px" width='42px' style="margin: 5px; object-fit:content;" src="/assets/technologies/vitejs.png"></a>
+<a href="https://www.radix-ui.com/" target="_blank"><img alt="Typescirpt" height ="42px" width='42px' style="margin: 5px; object-fit:content;" src="/assets/technologies/radixui.png"></a>
+<a href="https://mui.com/material-ui/" target="_blank"><img alt="Typescirpt" height ="42px" width='42px' style="margin: 5px; object-fit:content;" src="/assets/technologies/materialui.png"></a>
+<a href="https://ant.design/" target="_blank"><img alt="Typescirpt" height ="42px" width='42px' style="margin: 5px; object-fit:content;" src="/assets/technologies/antd.png"></a>
+<a href="https://www.framer.com/" target="_blank"><img alt="Typescirpt" height ="42px" width='42px' style="margin: 5px; object-fit:content;" src="/assets/technologies/framer.png"></a>
+<a href="https://www.canva.com/" target="_blank"><img alt="Typescirpt" height ="42px" width='42px' style="margin: 5px; object-fit:content;" src="/assets/technologies/canva.png"></a>
+<a href="https://www.figma.com" target="_blank"><img alt="Typescirpt" height ="42px" width='42px' style="margin: 5px; object-fit:content;" src="/assets/technologies/figma.png"></a>
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img alt="Typescirpt" height ="42px" width='42px' style="margin: 5px; object-fit:content;" src="/assets/technologies/ps.png"></a>
 
 <br>
 
