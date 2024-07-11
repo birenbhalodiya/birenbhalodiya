@@ -6,42 +6,9 @@ As a skilled Frontend Developer, I bring over 2+ years of hands-on experience in
 
 🚀 **Technical Skills:**
 
-- **Languages & Frameworks:** HTML5, CSS3, Bootstrap, JavaScript, jQuery, Tailwind CSS, Material UI, React JS, Next JS
+- **Languages & Frameworks:**
 
-**Specializations:**
-
-- Cross-browser compatibility issues 🌐
-- Web optimization techniques, including CSS Sprites and best practices ⚡
-- Responsive web design 📱
-
-💪 **Professional Strengths:**
-
-- Proven ability to analyze and fix UI bugs efficiently 🔍🛠️
-- Strong experience in optimizing code for enhanced performance 📈
-- Expertise in ensuring cross-browser compatibility and optimizing web applications 🌍
-
-I am passionate about delivering high-quality user interfaces and constantly strive to stay updated with the latest industry trends and best practices. 🌟📚
-
-<br/>
-<br/>
-
-<img align="right" alt="GIF" src="/assets/developer.webp" width="360px"/>
-  
-### 🧐 More About Me:
-
-- 🔭 &nbsp; I’m currently working on **Nettyfy Technology**
-- 🌱 &nbsp; I’m currently learning Typescript;
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/birenbhalodiya)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/biren-bhalodiya-699558237/)
-
-<br>
-
-### 🔨 Languages and Tools:
-
-<!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px" width='42px' style="margin: 5px; object-fit:content;"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a> -->
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img alt="HTML5" height="42px" width="42px" src="/assets/technologies/html5.png" style="margin: 5px;">
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
@@ -95,6 +62,40 @@ I am passionate about delivering high-quality user interfaces and constantly str
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank">
     <img alt="Photoshop" height="42px" width="42px" src="/assets/technologies/ps.png" style="margin: 5px;">
 </a>
+
+
+**Specializations:**
+
+- Cross-browser compatibility issues 🌐
+- Web optimization techniques, including CSS Sprites and best practices ⚡
+- Responsive web design 📱
+
+💪 **Professional Strengths:**
+
+- Proven ability to analyze and fix UI bugs efficiently 🔍🛠️
+- Strong experience in optimizing code for enhanced performance 📈
+- Expertise in ensuring cross-browser compatibility and optimizing web applications 🌍
+
+I am passionate about delivering high-quality user interfaces and constantly strive to stay updated with the latest industry trends and best practices. 🌟📚
+
+<br/>
+<br/>
+
+<img align="right" alt="GIF" src="/assets/developer.webp" width="360px"/>
+  
+### 🧐 More About Me:
+
+- 🔭 &nbsp; I’m currently working on **Nettyfy Technology**
+- 🌱 &nbsp; I’m currently learning Typescript;
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/birenbhalodiya)
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/biren-bhalodiya-699558237/)
+
+<br>
+
+### 🔨 Languages and Tools:
+
+<!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px" width='42px' style="margin: 5px; object-fit:content;"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a> -->
 
 <br>
 
