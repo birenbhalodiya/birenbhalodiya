@@ -1,22 +1,24 @@
 ## Hey 👋, I'm Biren Bhalodiya!
 
-🌟 Frontend Developer with 2+ Years of Experience in User Interface Development 🌟
+🌟 **Frontend Developer with 2+ Years of Experience in User Interface Development** 🌟
 
 As a skilled Frontend Developer, I bring over 2+ years of hands-on experience in developing and enhancing user interfaces. I excel in creating responsive web designs and am adept at quickly identifying and resolving UI bugs. 🖥️💡
 
 🚀 **Technical Skills:**
-Languages & Frameworks: HTML5, CSS3, Bootstrap, JavaScript, jQuery, Tailwind CSS, Material UI, React JS, Next JS
+- **Languages & Frameworks:** HTML5, CSS3, Bootstrap, JavaScript, jQuery, Tailwind CSS, Material UI, React JS, Next JS
 
 **Specializations:**
-Cross-browser compatibility issues 🌐
-Web optimization techniques, including CSS Sprites and best practices ⚡
-Responsive web design 📱
+- Cross-browser compatibility issues 🌐
+- Web optimization techniques, including CSS Sprites and best practices ⚡
+- Responsive web design 📱
 
 💪 **Professional Strengths:**
-Proven ability to analyze and fix UI bugs efficiently 🔍🛠️ <br/>
-Strong experience in optimizing code for enhanced performance 📈<br/>
-Expertise in ensuring cross-browser compatibility and optimizing web applications 🌍<br/>
+- Proven ability to analyze and fix UI bugs efficiently 🔍🛠️
+- Strong experience in optimizing code for enhanced performance 📈
+- Expertise in ensuring cross-browser compatibility and optimizing web applications 🌍
+
 I am passionate about delivering high-quality user interfaces and constantly strive to stay updated with the latest industry trends and best practices. 🌟📚
+
 <br/>
 <br/>
 
