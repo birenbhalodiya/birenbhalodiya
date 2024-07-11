@@ -7,12 +7,15 @@ As a skilled Frontend Developer, I bring over 2+ years of hands-on experience in
 🚀 Technical Skills:
 
 Languages & Frameworks: HTML5, CSS3, Bootstrap, JavaScript, jQuery, Tailwind CSS, Material UI, React JS, Next JS
+
 Specializations:
+
 Cross-browser compatibility issues 🌐
 Web optimization techniques, including CSS Sprites and best practices ⚡
 Responsive web design 📱
 
-💪 Professional Strengths:<br/>
+💪 Professional Strengths:
+
 Proven ability to analyze and fix UI bugs efficiently 🔍🛠️ <br/>
 Strong experience in optimizing code for enhanced performance 📈<br/>
 Expertise in ensuring cross-browser compatibility and optimizing web applications 🌍<br/>
