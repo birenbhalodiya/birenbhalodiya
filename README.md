@@ -25,7 +25,7 @@ I am passionate about delivering high-quality user interfaces and constantly str
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="/assets/developer.webp" width="360px"/>
   
 ### 🧐 More About Me:
 
