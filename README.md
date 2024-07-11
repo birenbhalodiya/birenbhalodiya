@@ -11,12 +11,11 @@ Specializations:
 Cross-browser compatibility issues 🌐
 Web optimization techniques, including CSS Sprites and best practices ⚡
 Responsive web design 📱
-💪 Professional Strengths:
 
-Proven ability to analyze and fix UI bugs efficiently 🔍🛠️
+💪 Professional Strengths:
+Proven ability to analyze and fix UI bugs efficiently 🔍🛠️ 
 Strong experience in optimizing code for enhanced performance 📈
 Expertise in ensuring cross-browser compatibility and optimizing web applications 🌍
-
 I am passionate about delivering high-quality user interfaces and constantly strive to stay updated with the latest industry trends and best practices. 🌟📚
 <br/>
 <br/>
