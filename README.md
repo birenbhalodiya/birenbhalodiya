@@ -23,7 +23,6 @@ As a skilled Frontend Developer, I bring over 2+ years of hands-on experience in
 I am passionate about delivering high-quality user interfaces and constantly strive to stay updated with the latest industry trends and best practices. 🌟📚
 
 <br/>
-<br/>
 
 <img align="right" alt="GIF" src="/assets/developer.webp" width="360px"/>
   
