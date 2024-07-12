@@ -31,6 +31,8 @@ As a skilled Frontend Developer, I bring over 2+ years of hands-on experience in
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank" style='padding:5px;margin:5px'><img alt="Typescirpt" style='padding:5px' height="36px" width='36px' src="/assets/technologies/ps.png"></a> &nbsp; &nbsp;
 </div>
 
+<br/>
+
 **Specializations:**
 
 - Cross-browser compatibility issues 🌐
@@ -46,7 +48,6 @@ As a skilled Frontend Developer, I bring over 2+ years of hands-on experience in
 I am passionate about delivering high-quality user interfaces and constantly strive to stay updated with the latest industry trends and best practices. 🌟📚
 
 <br/>
-
 <img align="right" alt="GIF" src="/assets/developer.webp" width="360px"/>
   
 ### 🧐 More About Me:
@@ -58,5 +59,4 @@ I am passionate about delivering high-quality user interfaces and constantly str
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/biren-bhalodiya-699558237/)
 
 <br>
-
 <img src="https://streak-stats.demolab.com?user=birenbhalodiya" alt="GitHub Streak" />
