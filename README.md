@@ -40,6 +40,7 @@ I am passionate about delivering high-quality user interfaces and constantly str
 
 <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" style='padding:5px' height="36px" width='36px' style="margin: 5px; object-fit:content;"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a> &nbsp; &nbsp; -->
 
+<div style="display: flex; justify-content: space-around;gap:10px">
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img alt="Typescirpt" style='padding:5px' height="36px" width='36px' src="/assets/technologies/html5.png"></a> &nbsp; &nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img alt="Typescirpt" style='padding:5px' height="36px" width='36px' src="/assets/technologies/css3.png"></a> &nbsp; &nbsp;
 <a href="https://react.dev/" target="_blank"><img alt="Typescirpt" style='padding:5px' height="36px" width='36px' src="/assets/technologies/reactjs.png"></a> &nbsp; &nbsp;
@@ -58,6 +59,7 @@ I am passionate about delivering high-quality user interfaces and constantly str
 <a href="https://www.canva.com/" target="_blank"><img alt="Typescirpt" style='padding:5px' height="36px" width='36px' src="/assets/technologies/canva.png"></a> &nbsp; &nbsp;
 <a href="https://www.figma.com" target="_blank"><img alt="Typescirpt" style='padding:5px' height="36px" width='36px' src="/assets/technologies/figma.png"></a> &nbsp; &nbsp;
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img alt="Typescirpt" style='padding:5px' height="36px" width='36px' src="/assets/technologies/ps.png"></a> &nbsp; &nbsp;
+</div>
 
 <br>
 
