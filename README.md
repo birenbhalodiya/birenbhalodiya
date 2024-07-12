@@ -49,6 +49,7 @@ I am passionate about delivering high-quality user interfaces and constantly str
 
 <br/>
 <img align="right" alt="GIF" src="/assets/developer.webp" width="360px"/>
+
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on **Nettyfy Technology**
