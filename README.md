@@ -33,7 +33,7 @@ I am passionate about delivering high-quality user interfaces and constantly str
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **Nettyfy Technology**
+- 🔭 &nbsp; I’m currently working in **Nettyfy Technology**
 - 🌱 &nbsp; I’m currently learning Typescript;
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/birenbhalodiya)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
