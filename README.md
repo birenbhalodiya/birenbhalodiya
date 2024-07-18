@@ -10,7 +10,7 @@ As a skilled Frontend Developer, I bring over 2+ years of hands-on experience in
 
 ### 🔨 Languages and Tools:
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,materialui,tailwindcss,sass,github,git,vscode,vercel,jquery,vite,figma,ps&perline=6" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,materialui,tailwindcss,sass,github,git,vscode,vercel,jquery,vite,figma,ps&perline=10" />
 
 <br/>
 
